@@ -207,7 +207,7 @@ public class ApplicationRunner {
 			inputModel.setOperation(TreeOperation.ADD);
 			inputModel.setRelation(paramSet1[0]);
 			inputModel.setPerson(paramSet1[1]);
-			inputModel.setAge(Integer.valueOf(paramSet1[2]));
+			inputModel.setAge(Integer.valueOf(paramSet2[2]));
 			inputModel.setDependantRelation(paramSet2[0]);
 			inputModel.setDependantPerson(paramSet2[1]);
 		}
