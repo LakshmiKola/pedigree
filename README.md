@@ -18,7 +18,7 @@ Libraries added in the application
 
 Running in an IDE
 ---------------------
-To run the application in an IDE, such as Eclipse, you should import the entire project into a project in the IDE. 
+To run the application in an IDE, such as Eclipse, you should import the entire project as "Maven Existing Project"in the IDE. 
 After this add dependencies into classpath and then run ApplicationRuunner.java to run application or TestRunner.java to run the tests.
 
                   
